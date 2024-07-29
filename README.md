@@ -5,9 +5,10 @@ This project serves as a hands-on space for testing various tools and techniques
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Supported Platforms](#supported-platforms)
-3. [Demo](#demo)
-4. [Tools and Libraries Used](#tools-and-libraries-used)
+2. [WIP (Work in progress)](#wip)
+3. [Supported Platforms](#supported-platforms)
+4. [Demo](#demo)
+5. [Tools and Libraries Used](#tools-and-libraries-used)
 
 ## Introduction
 
@@ -16,6 +17,13 @@ This project is designed as a playground to experiment with and understand diffe
 The app is a simple anime listing application that allows users to browse through a list of anime and view detailed information about each one.
 
 This project follows a similar architecture to the [Nowinandroid](https://github.com/android/nowinandroid) GitHub project. I was inspired by Nowinandroid and decided to create this project following the same approach, though it is not multi-modular but adheres to a similar structure.
+
+## WIP
+- Improve performance of compose
+- Clean up code to follow clean code architecture
+- Handle error states
+- Handle loading states
+- Handle accessibility
 
 ## Supported Platforms
 - 📱 iOS
