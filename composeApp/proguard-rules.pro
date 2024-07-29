@@ -1,0 +1,4 @@
+-keep class com.anime.cmp.** { *; }
+-dontwarn okio.**
+-dontwarn javax.annotation.**
+-ignorewarnings

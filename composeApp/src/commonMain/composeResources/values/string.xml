@@ -1,0 +1,11 @@
+<resources>
+    <string name="most_popular_home">MOST POPULAR</string>
+    <string name="trending_home">TRENDING</string>
+    <string name="upcoming_home">UPCOMING RELEASES</string>
+    <string name="see_more">See more</string>
+    <string name="read_more">Read More</string>
+    <string name="read_less">Read Less</string>
+    <string name="similar_anime">Similar anime</string>
+    <string name="trailer">Trailer</string>
+    <string name="back">Back</string>
+</resources>
