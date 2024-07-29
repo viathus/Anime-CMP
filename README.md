@@ -1,4 +1,4 @@
-iOS# Anime Compose Multiplatform 
+# Anime Compose Multiplatform 
 
 This project serves as a hands-on space for testing various tools and techniques for compose multiplatform
 
