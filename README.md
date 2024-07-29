@@ -1,4 +1,4 @@
-# Anime Compose Multiplatform 
+iOS# Anime Compose Multiplatform 
 
 This project serves as a hands-on space for testing various tools and techniques for compose multiplatform
 
@@ -23,7 +23,9 @@ This project follows a similar architecture to the [Nowinandroid](https://github
 
 ## Demo
 
+https://github.com/user-attachments/assets/23ae9e83-23f9-475b-b7c4-086dc48c63fc
 
+https://github.com/user-attachments/assets/a0808310-fd29-4a4e-842a-eeaefb521665
 
 ## Tools and Libraries Used
 This project makes use of various tools and libraries to facilitate multi-platform development:
