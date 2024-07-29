@@ -20,7 +20,7 @@ This project follows a similar architecture to the [Nowinandroid](https://github
 
 ## WIP
 - Improve performance of compose
-- Clean up code to follow clean code architecture
+- **Follow clean code architecture**
 - Handle error states
 - Handle loading states
 - Handle accessibility
