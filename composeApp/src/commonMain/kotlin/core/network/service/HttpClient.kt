@@ -39,7 +39,7 @@ val client = HttpClient {
     install(Logging) {
         logger = object : Logger {
             override fun log(message: String) {
-                Napier.d("Http Client",  null, message)
+                println("logger ktor -> $message")
             }
         }
         level = LogLevel.ALL

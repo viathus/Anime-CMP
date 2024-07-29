@@ -13,6 +13,7 @@ import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.layout.ContentScale
+import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import coil3.compose.AsyncImage
 import core.designsystem.theme.LocalColors
@@ -47,6 +48,8 @@ fun SharedTransitionScope.AnimeCard(
             style = LocalTypography.current.descriptionHome,
             color = LocalColors.current.onPrimary,
             text = animeUiState.animeName,
+            maxLines = 1,
+            overflow = TextOverflow.Ellipsis,
             modifier = Modifier.sharedBounds(
                 sharedContentState = rememberSharedContentState(key = "${animeUiState.id}-text"),
                 animatedVisibilityScope = animatedContentScope,

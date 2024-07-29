@@ -159,6 +159,11 @@ android {
         create("debuggableRelease") {
             isMinifyEnabled = true
             isDebuggable = true
+            proguardFiles(
+                getDefaultProguardFile("proguard-android-optimize.txt"),
+                "proguard-rules.pro",
+            )
+            signingConfig = signingConfigs.getByName("debug")
         }
     }
 

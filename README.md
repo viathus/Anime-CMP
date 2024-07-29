@@ -16,6 +16,7 @@ This project is designed as a playground to experiment with and understand diffe
 The app is a simple anime listing application that allows users to browse through a list of anime and view detailed information about each one.
 
 This project follows a similar architecture to the [Nowinandroid](https://github.com/android/nowinandroid) GitHub project. I was inspired by Nowinandroid and decided to create this project following the same approach, though it is not multi-modular but adheres to a similar structure.
+
 ## Supported Platforms
 - 📱 iOS
 - 🤖 Android
