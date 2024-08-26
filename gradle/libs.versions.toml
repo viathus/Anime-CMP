@@ -32,7 +32,7 @@ coil3 = "3.0.0-alpha07"
 kmpalette = "3.1.0"
 buildkonfig = "0.15.1"
 webkit = "1.11.0"
-spotless = "7.0.0.BETA1"
+spotless = "7.0.0.BETA2"
 core-splashscreen = "1.0.1"
 
 [libraries]
